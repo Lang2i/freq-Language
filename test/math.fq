@@ -1,0 +1,9 @@
+mod math
+out var a = 10
+func add(a, b) {
+    return a + b
+}
+
+func ae() {
+    print("1")
+}

@@ -1,0 +1,5 @@
+use math::ae()
+
+func main(){
+    ae()
+}
